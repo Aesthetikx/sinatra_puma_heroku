@@ -1,4 +1,9 @@
 sinatra_puma_heroku
 ===================
 
-A Sample Sinatra app using Puma for deployment on Heroku
+A sample Sinatra app using Puma for deployment on Heroku
+
+```sh
+# Run the app locally
+$ bundle exec foreman start
+```
